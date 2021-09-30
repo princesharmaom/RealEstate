@@ -1,0 +1,21 @@
+<div class="card">
+    <div class="card-img-wrapper">
+
+        <img
+        class="card-img-top"
+        src="../../../assets/images/home_default1.png"
+        alt="house_img"
+        />
+        <ul class="list-inline text-center member-icons animate">
+            <li class="list-inline-item"><button class="btn btn-primary"><fa-icon [icon]="faPen"></fa-icon></button></li>
+            <li class="list-inline-item"><button class="btn btn-primary"><fa-icon [icon]="faAddressBook"></fa-icon></button></li>
+        </ul>
+
+    </div>
+    <div class="card-body p-2">
+      <h1>{{ property.name }}</h1>
+      <h2>{{ property.type }}</h2>
+      <h3>{{ property.price }}</h3>
+    </div>
+  </div>
+  

@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Birla House",
+      "type": "House",
+      "price": 120000
+    },
+    {
+      "id": 2,
+      "name": "Jaamnagar Vila",
+      "type": "Vila",
+      "price": 1500000
+    },
+    {
+      "id": 3,
+      "name": "Mahanagar Palace",
+      "type": "Palace",
+      "price": 1540000
+    },
+    {
+      "id": 4,
+      "name": "Junagad Quila",
+      "type": "Fort",
+      "price": 1567000
+    },
+    {
+      "id": 5,
+      "name": "Jameson's Palace",
+      "type": "Palace",
+      "price": 19000000
+    },
+    {
+      "id": 6,
+      "name": "Jameson's Vila",
+      "type": "Vila",
+     "price": 21000000
+    }
+  ]
